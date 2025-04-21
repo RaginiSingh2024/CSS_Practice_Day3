@@ -1,0 +1,101 @@
+/* 1. Fancy Paragraph */
+.fancy-paragraph {
+    font-family: Arial, sans-serif;
+    color: #555;
+    line-height: 1.6;
+    font-size: 1.2em;
+  }
+  
+  /* 2. Colored Heading & Box */
+  .bold-heading {
+    font-weight: bold;
+    color: black;
+  }
+  .soft-box {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* 3. Centered Box */
+  .centered-box {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  /* 4. Chill Reading Section */
+  .chill-reading {
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin: 20px;
+  }
+  
+  /* 5. Cool Navigation Links */
+  .cool-nav a {
+    text-decoration: none;
+    padding: 10px;
+    color: #000;
+  }
+  .cool-nav a:hover {
+    text-decoration: underline;
+  }
+  
+  /* 6. Cute Button */
+  .cute-button {
+    padding: 10px 20px;
+    background-color: #f4f4f4;
+    border: none;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    color: #555;
+    cursor: pointer;
+  }
+  
+  /* 7. Profile Card */
+  .profile-card {
+    max-width: 300px;
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    font-size: 1.2em;
+    text-align: center;
+  }
+  
+  /* 8. Styled Article */
+  .clean-article {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    line-height: 1.6;
+    margin: 20px auto;
+  }
+  .clean-article h2 {
+    color: black;
+  }
+  .clean-article p {
+    color: #555;
+  }
+  
+  /* 9. Hero Section */
+  .hero-section {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 60px 20px;
+  }
+  .hero-section h1 {
+    font-size: 2.5em;
+  }
+  
+  /* 10. Quote Box */
+  .quote-box {
+    background-color: white;
+    color: #555;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    font-style: italic;
+  }
+  
